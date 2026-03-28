@@ -1,3 +1,5 @@
+[中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Français](README.fr.md) | [Русский](README.ru.md)
+
 # 人类最后的希望——火种计划
 
 ## The Last Hope of Humanity — Project Fireseed
